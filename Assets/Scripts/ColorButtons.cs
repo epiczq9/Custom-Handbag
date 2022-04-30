@@ -6,7 +6,7 @@ public class ColorButtons : MonoBehaviour
 {
     [SerializeField] private GameObject paintBrush;
 
-    public void changeColor(string color) {
+    public void changeColor(string color) { //Functions should start with a capital letter, but if I change this now, I will have to reassign the function to all the buttons
 
         switch (color) {
             case "red":
