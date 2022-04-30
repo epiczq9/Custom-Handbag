@@ -33,57 +33,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/Scene0.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 1474}
-    - Class: 114
-      Script: {instanceID: 1476}
-    - Class: 114
-      Script: {instanceID: 2096}
-    - Class: 114
-      Script: {instanceID: 2416}
-    - Class: 114
-      Script: {instanceID: 2544}
-    - Class: 114
-      Script: {instanceID: 2920}
-    - Class: 114
-      Script: {instanceID: 3012}
-    - Class: 114
-      Script: {instanceID: 3034}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 128
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
-    - Class: 213
-      Script: {instanceID: 0}
-    - Class: 222
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
-      Script: {instanceID: 0}
     Assets/Scenes/Scene3.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -199,17 +148,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3034}
     - Class: 114
-      Script: {instanceID: 3538}
+      Script: {instanceID: 3224}
     - Class: 114
-      Script: {instanceID: 3868}
+      Script: {instanceID: 3540}
     - Class: 114
-      Script: {instanceID: 3880}
+      Script: {instanceID: 3870}
     - Class: 114
-      Script: {instanceID: 3886}
+      Script: {instanceID: 3882}
     - Class: 114
-      Script: {instanceID: 4182}
+      Script: {instanceID: 3888}
     - Class: 114
-      Script: {instanceID: 233728}
+      Script: {instanceID: 4184}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -290,17 +239,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3034}
     - Class: 114
-      Script: {instanceID: 3538}
+      Script: {instanceID: 3224}
     - Class: 114
-      Script: {instanceID: 3868}
+      Script: {instanceID: 3540}
     - Class: 114
-      Script: {instanceID: 3880}
+      Script: {instanceID: 3870}
     - Class: 114
-      Script: {instanceID: 3886}
+      Script: {instanceID: 3882}
     - Class: 114
-      Script: {instanceID: 4182}
+      Script: {instanceID: 3888}
     - Class: 114
-      Script: {instanceID: 233728}
+      Script: {instanceID: 4184}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -842,6 +791,12 @@ ScriptsOnlyBuild:
     className: P3dGenerateMask
   - hash:
       serializedVersion: 2
+      Hash: a2c46f14ed4359ec20a00182845cc0c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraTransitions
+  - hash:
+      serializedVersion: 2
       Hash: c72bfd9baa5d7ecba57b75e0b423e8f6
     assemblyName: PaintIn3D.dll
     namespaceName: PaintIn3D
@@ -1290,16 +1245,9 @@ ScriptsOnlyBuild:
     assemblyName: CW.Common.dll
     namespaceName: CW.Common
     className: CwGuide
-  - hash:
-      serializedVersion: 2
-      Hash: a2c46f14ed4359ec20a00182845cc0c5
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CameraTransitions
   platform: 13
   scenePathNames:
-  - Assets/Scenes/Scene0.unity
   - Assets/Scenes/scene1.unity
   - Assets/Scenes/scene2.unity
   - Assets/Scenes/Scene3.unity
-  playerPath: C:/Users/ComTech/Desktop/paintyourhandbagFINAL.apk
+  playerPath: C:/Users/ComTech/Desktop/30Apr2022_PaintYourHandbag2.apk

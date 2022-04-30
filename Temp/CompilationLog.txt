@@ -1,0 +1,14 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\Program Files (x86)\GameDev\Unity Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1d1fb5ae864d22546be5b1b694ef3615
+# Starting compiling UnityEngine.UI.dll
+D:\Program Files (x86)\GameDev\Unity Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-96b1bd4c69ef7784f945e6eeb9e23644
+# Starting compiling CW.Common.dll
+D:\Program Files (x86)\GameDev\Unity Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-fc6cc087d981cd948851db4d33da4173
+# Starting compiling Unity.Timeline.dll
+D:\Program Files (x86)\GameDev\Unity Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a58f933582ecc1b4fbbcb2451011e6cd
+# Starting compiling Unity.TextMeshPro.dll
+D:\Program Files (x86)\GameDev\Unity Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5099276968533194d88120cf056101eb
+# Starting compiling PaintIn3D.dll
+D:\Program Files (x86)\GameDev\Unity Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-854a6b5898f8053459fbb8035e5e1c8a
+# Starting compiling Assembly-CSharp.dll
+D:\Program Files (x86)\GameDev\Unity Editor\2020.3.30f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ebfb628d45c3e394d88b7459a596197e
